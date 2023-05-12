@@ -1,0 +1,13 @@
+{
+  "name": "my-app",
+  "version": "1.0.0",
+  "description": "My App",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo 'Building app...'",
+    "test": "echo 'Running tests...'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
